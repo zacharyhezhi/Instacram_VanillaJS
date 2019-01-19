@@ -1,0 +1,4 @@
+25/10/18     12:00   24:00   work on signup and login for level 1
+26/10/18     10:00   22:00   work on modal for login and signup for level 1
+25/10/18     12:00   24:00   work on detail for feed for level 1
+25/10/18     10:00   24:00   work on function for level 2
